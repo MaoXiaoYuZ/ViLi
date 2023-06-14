@@ -1,0 +1,3 @@
+[submodule "ovis"]
+	path = ovis
+	url = https://github.com/MaoXiaoYuZ/OVis.git
